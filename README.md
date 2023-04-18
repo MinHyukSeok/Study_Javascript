@@ -1,1 +1,1 @@
-# Javascript_Study
+Javascript의 학습 내용을 목차별로 정리한 저장소입니다.
